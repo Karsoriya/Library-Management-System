@@ -1,0 +1,19 @@
+# Ignore runtime data files
+books.txt
+students.txt
+
+# Ignore compiled binaries and object files
+library_system
+library_system.exe
+*.o
+
+# Ignore IDE/project settings
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore lock files and logs
+*.log
