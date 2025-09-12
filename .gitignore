@@ -6,7 +6,7 @@ students.txt
 library_system
 library_system.exe
 *.o
-
+libraryManagementSystem.exe
 # Ignore IDE/project settings
 .vscode/
 .idea/
