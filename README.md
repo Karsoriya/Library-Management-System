@@ -13,6 +13,7 @@ Track book availability status
 
 View detailed book information
 
+
 Student Management
 Add new student records
 
@@ -24,6 +25,7 @@ Track books issued to each student
 
 Monitor student borrowing limits
 
+
 Book Transactions
 Issue books to students (max 3 books per student)
 
@@ -32,6 +34,7 @@ Return books with automatic date tracking
 Display all currently issued books
 
 Maintain complete transaction history
+
 
 Data Persistence
 Automatic file-based storage using books.txt and students.txt

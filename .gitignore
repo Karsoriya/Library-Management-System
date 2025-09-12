@@ -4,7 +4,8 @@ students.txt
 
 # Ignore compiled binaries and object files
 library_system
-library_system.exe
+*.exe
+
 *.o
 libraryManagementSystem.exe
 # Ignore IDE/project settings
