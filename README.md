@@ -17,6 +17,7 @@ Book Management
 
 ***
 Student Management
+
 -Add new student records
 
 -Display all registered students
@@ -31,14 +32,15 @@ Student Management
 Book Transactions
 -Issue books to students (max 3 books per student)
 
-Return books with automatic date tracking
+-Return books with automatic date tracking
 
-Display all currently issued books
+-Display all currently issued books
 
-Maintain complete transaction history
+-Maintain complete transaction history
 
-
+***
 Data Persistence
-Automatic file-based storage using books.txt and students.txt
 
-Data automatically saved and loaded between sessions
+-Automatic file-based storage using books.txt and students.txt
+
+-Data automatically saved and loaded between sessions
