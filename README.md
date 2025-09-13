@@ -5,42 +5,42 @@ A comprehensive console-based Library Management System developed in C++ with fi
 🚀 Features
 Book Management
 ***
--Add new books to the library
+Add new books to the library
 
--Display all available books
+Display all available books
 
--Search books by ID, title, or author
+Search books by ID, title, or author
 
--Track book availability status
+Track book availability status
 
--View detailed book information
+View detailed book information
 
 ***
 Student Management
 
--Add new student records
+Add new student records
 
--Display all registered students
+Display all registered students
 
--Search students by ID or name
+Search students by ID or name
 
--Track books issued to each student
+Track books issued to each student
 
--Monitor student borrowing limits
+Monitor student borrowing limits
 
 ***
 Book Transactions
--Issue books to students (max 3 books per student)
+Issue books to students (max 3 books per student)
 
--Return books with automatic date tracking
+Return books with automatic date tracking
 
--Display all currently issued books
+Display all currently issued books
 
--Maintain complete transaction history
+Maintain complete transaction history
 
 ***
 Data Persistence
 
--Automatic file-based storage using books.txt and students.txt
+Automatic file-based storage using books.txt and students.txt
 
--Data automatically saved and loaded between sessions
+Data automatically saved and loaded between sessions
