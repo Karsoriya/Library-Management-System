@@ -1,6 +1,7 @@
 # Library-Management-System
+---
 A comprehensive console-based Library Management System developed in C++ with file handling capabilities for managing books, students, and book transactions.
-
+---
 🚀 Features
 Book Management
 Add new books to the library
